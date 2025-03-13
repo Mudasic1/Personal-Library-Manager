@@ -1,2 +1,4 @@
+pandas
+json
 os
 datetime
